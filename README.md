@@ -24,3 +24,25 @@
   <a href="mailto: anna.sadka87@gmail.com">
   <img src="images/gmail.png" alt=”Gmail icon" width=”30” height="30"></a>
                                                                            </div>
+
+                                                                     
+linki do raportów,
+linki do opisów błędów,
+linki do opisów przypadków testowych,Najlepiej dodawać bezpośrednie linki i pamiętaj, żeby miały publiczny dostęp!
+                                                                     
+## Courses
+<ol>
+                                                                     
+DARET IT portfolio challenge 
+6-day HTML/CSS Marathon from GoIT
+SQL from scratch
+                                                                     
+webinary, szkolenia, kursy, mentoring, w których brałeś udział (nie zapomnij o naszym challenge portfolio!).
+narzędzia, które znasz/poznałeś (github, devtools, xampp, slack…)
+technologie, które poznał_ś,
+umiejętności techniczne,
+umiejętności miękkie,
+link do linkedin'a,
+książki branżowe, które przeczytał_ś,
+o mnie…
+wszystko, co możesz wymyślić!
