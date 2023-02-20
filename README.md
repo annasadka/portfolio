@@ -3,15 +3,14 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/">
-    <img src="images/ania.png" alt="Logo" width="120" height="120">
+  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/blob/main/images/ania.png">
+    <img src="images/ania.png" alt="ania photo" width="120" height="120">
   </a><br />
 </div>
 
-<div align="center">My name is<br>
-<h2>Ania Sadka</h2>
-<p>and this is my PORTFOLIO</p>
-</div>
+<div align="center">
+<h2>I'm Ania<br> (Anna Sadka)</h2>
+</div><br>
 
 <h3 align="center">
   Connect with me!💬
@@ -30,36 +29,89 @@
 </a>
 </p>
 
+# 🌼 About Me:
 
-## My projects
+- Recently: Hospitality Industry Marketing Specialist.
+- Currently I'm Marketing Specialist working for IT companies.
+- My goal is to develop testing knowlage and technical skills. 
 
-### Bugs
+# 🚀 My projects
 
-### Test cases
-
-### Reports
-
-### SQL
-
-### HTML/CSS
-
-
-                                                                     
-## Courses
-
-<ul>                                                                 
-<li>DARET IT portfolio challenge </li>
-<li>6-day HTML/CSS Marathon from GoIT</li>
-<li>SQL from scratch</li>
+## Bugs
+<ul>
+<li></li>
+<li></li>
 </ul>
 
-## Certificates
+## Test cases
+<ul>
+<li>https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit#gid=632760265</li>
+<li></li>
+</ul>
 
-## Tools
+## Reports
+<ul>
+<li>https://docs.google.com/spreadsheets/d/1MLSu-LP9oPvXpD-Xu-xuckT1fkvIojI_9IMvkJBsY5A/edit#gid=608636824</li>
+<li></li>
+</ul>
 
-## Technologies
+## SQL
+<ul>
+<li>https://github.com/annasadka/challenge_portfolio_annasadka#subtask-1---short-course-on-sql-basics</li>
+<li>https://github.com/annasadka/challenge_portfolio_annasadka#subtask-3-4</li>
+</ul>
 
-## Books
+                                                                     
+# 📅 Courses
+  - DARET IT portfolio challenge.
+  - 6-day HTML/CSS Marathon from GoIT.
+  - SQL from scratch.
+
+
+# 🎉 Certificates
+  - Introduction to git and github (Udemy).
+  - Web developer from scratch (Udemy).
+  - Graphic design from scratch (Udemy).
+
+
+# 💪 Tech skills
+  - Software testing
+  - Creating test cases
+  - Reporting bugs
+  - SQL (basic)
+  - DevTools
+  - Project Management
+
+  
+# 🛠️ Tools
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
+  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
+  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
+  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
+  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
+  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - Github
+  - BlazeMeter (https://www.blazemeter.com/) - Load testing platform     
+
+# 📚 Books
+<ul>
+<li>Pasja Testowania. Krzysztof Jadczyk</li>
+<li>Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp</li>
+<li>HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett</li>
+</ul>
+
+
+# ❤️ Hobbies
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+# 🤓 Learning
+<ul>
+<li></li>
+<li></li>
+</ul>
 
 
 
