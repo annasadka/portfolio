@@ -9,7 +9,7 @@
   </a><br />
   <div align="center">
 
-<h3 align="center">project_name:<br>Anna Sadka</h3>
+<h3 align="center">Portfolio:<br>Anna Sadka</h3>
 </div>
   
 </div>
