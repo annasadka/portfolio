@@ -58,15 +58,15 @@
 
                                                                      
 # 📅 Courses
-  - DARET IT portfolio challenge.
-  - 6-day HTML/CSS Marathon from GoIT.
-  - SQL from scratch.
+  - DARET IT portfolio challenge
+  - 6-day HTML/CSS Marathon from GoIT
+  - SQL from scratch
 
 
 # 🎉 Certificates
-  - Introduction to git and github (Udemy).
-  - Web developer from scratch (Udemy).
-  - Graphic design from scratch (Udemy).
+  - Introduction to Git and Github (Udemy)
+  - Web developer from scratch (Udemy)
+  - Graphic design from scratch (Udemy)
 
 
 # 💪 Tech skills
@@ -86,24 +86,19 @@
    
 
 # 📚 Books
-<ul>
-<li>Pasja Testowania. Krzysztof Jadczyk</li>
-<li>Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp</li>
-<li>HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett</li>
-</ul>
+  - Pasja Testowania. Krzysztof Jadczyk
+  - Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp
+  - HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett
+
 
 
 # ❤️ Hobbies
-<ul>
-<li></li>
-<li></li>
-</ul>
+  - Dancing
+  - Graphic design
+  - Interior design
 
 # 🤓 Learning
-<ul>
-<li></li>
-<li></li>
-</ul>
+  - Java Script
 
 
 
