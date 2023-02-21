@@ -51,7 +51,7 @@
 
 
 ## SQL
-<ul>
+
   - [Tasks 1-10](https://github.com/annasadka/challenge_portfolio_annasadka#subtask-1---short-course-on-sql-basics)
   - [Tasks 11-20](https://github.com/annasadka/challenge_portfolio_annasadka#subtask-3-4)
 
