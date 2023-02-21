@@ -38,28 +38,23 @@
 # 🚀 My projects
 
 ## Bugs
-<ul>
-<li></li>
-<li></li>
-</ul>
+  - [Bugs which I found in OLX app](https://docs.google.com/spreadsheets/d/1oGEi4RyQhVulM9tapa3fn3SvTDue_5RR8kdUTDxT9Dc/edit#gid=632760265)
 
 ## Test cases
-<ul>
-<li>https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit#gid=632760265</li>
-<li></li>
-</ul>
+
+  - [Test cases](https://docs.google.com/spreadsheets/d/1esb3fJGxXc7botlI1yLIoygmd4niZft-Q6UKA593edg/edit#gid=632760265)
+
 
 ## Reports
-<ul>
-<li>https://docs.google.com/spreadsheets/d/1MLSu-LP9oPvXpD-Xu-xuckT1fkvIojI_9IMvkJBsY5A/edit#gid=608636824</li>
-<li></li>
-</ul>
+
+  - [Scout Panel Futbolkolektyw webiste](https://docs.google.com/spreadsheets/d/1MLSu-LP9oPvXpD-Xu-xuckT1fkvIojI_9IMvkJBsY5A/edit#gid=608636824)
+
 
 ## SQL
 <ul>
-<li>https://github.com/annasadka/challenge_portfolio_annasadka#subtask-1---short-course-on-sql-basics</li>
-<li>https://github.com/annasadka/challenge_portfolio_annasadka#subtask-3-4</li>
-</ul>
+  - [Tasks 1-10](https://github.com/annasadka/challenge_portfolio_annasadka#subtask-1---short-course-on-sql-basics)
+  - [Tasks 11-20](https://github.com/annasadka/challenge_portfolio_annasadka#subtask-3-4)
+
 
                                                                      
 # 📅 Courses
@@ -84,14 +79,11 @@
 
   
 # 🛠️ Tools
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl) - Exploratory testing assistant for Chrome and Firefox
-  - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
-  - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-  - [Xmind](https://www.xmind.net/), [Mind Meister](https://www.mindmeister.com/) - Mind mapping softwares
-  - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - Jira, Trello
+  - Youtrack, Monday, Clickup, Asana
+  - Figma, Photoshop, Indesign, Gimp, Canva
   - Github
-  - BlazeMeter (https://www.blazemeter.com/) - Load testing platform     
+   
 
 # 📚 Books
 <ul>
