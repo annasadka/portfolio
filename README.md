@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/annasadka/challenge_portfolio_annasadka/blob/main/images/ania.png">
-    <img src="images/ania.png" alt="ania photo" width="120" height="120">
+  
+    <img src="images/ania1.png" alt="ania photo" width="120" height="120">
   </a><br />
 </div>
 
