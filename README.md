@@ -58,7 +58,7 @@
 
                                                                      
 # 📅 Courses
-  - DARET IT portfolio challenge
+  - DARET IT portfolio challenge - manual tester [My tasks](https://github.com/annasadka/challenge_portfolio_annasadka/blob/main/README.md)
   - 6-day HTML/CSS Marathon from GoIT
   - SQL from scratch
 
@@ -83,6 +83,8 @@
   - Youtrack, Monday, Clickup, Asana
   - Figma, Photoshop, Indesign, Gimp, Canva
   - Github
+  - Xampp
+  - Slack
    
 
 # 📚 Books
