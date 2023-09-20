@@ -32,7 +32,11 @@
 
 # About Me:
 
-My name is Ania Sadka and I want to be a good software tester. 💻I think that I'm a person who pay attention to details, sometimes I see something it's invisible to the others. I'm stubborn, but - it helps me to reach my golas. Now, my main goal is learning and developing as a software tester. Thanks to my diversified experience I have highly developed interpersonal skills - I like people and I feel satisfied that I can work in a team 🤝. In this portfolio I would like to show my testing knowledge and my technical skills - mainly got through self-learning. I know that I have to develop my knowledge all the time, but I'm very happy about it.
+My name is Ania Sadka and I have recently embarked on career change journey in order to become a Software Tester,
+which is something I'm really passionate about. I am looking for a junior/trainee position in testing. 
+In previous jobs, I have had the opportunity to work with people from different 
+countries and different backgrounds, which has given me highly developed communication skills and empathy. 
+I am also creative, thorough and have a problem-solving attitude. I'm excited to start a new chapter in my life.
 
                                                                      
 #  Courses & Workshops
