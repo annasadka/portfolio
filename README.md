@@ -39,44 +39,53 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
  ✅ DARET IT portfolio challenge - Manual Tester <br>
  ✅ Praktyczny kurs testowania oprogramowania (Udemy.com) <br>
  ✅ Kurs SQL w 120 minut (kursysql.pl) <br>
- ✅ Kurs Dare IT Challenge: Zostań Testerem Manualnym
+ ✅ Kurs Dare IT Challenge: Zostań Testerem Manualnym <br>
 
 
 
 #  Certificates
-  - Become a Manual Tester (Dare IT Challenge)
-  - Introduction to Git and Github (Udemy)
+  - Become a Manual Tester (Dare IT Challenge) <br>
+  - Introduction to Git and Github (Udemy) <br>
  
 
 
 # Tech skills
-  💪 Manual testing
-  💪 Test cases generation
-  💪 Bugs reporting
-  💪 SQL (basic)
-  💪 DevTools
+  💪 Manual testing <br>
+  💪 Test cases generation <br>
+  💪 Bugs reporting <br>
+  💪 SQL (basic) <br>
+  💪 DevTools <br>
 
   
 # Tools
-  🛠️ Jira
-  🛠️ Testrail
-  🛠️ Youtrack, Monday, Clickup, Asana
-  🛠️ Github
-  🛠️ Xampp
-  🛠️ Slack
+  🛠️ Jira <br>
+  🛠️ Trello <br>
+  🛠️ Testrail <br>
+  🛠️ Youtrack, Monday, Clickup, Asana <br>
+  🛠️ Github <br>
+  🛠️ Postman <br>
+  🛠️ Microsoft SQL Server Management Studio <br>
+  🛠️ phpMyAdmin <br>
+  🛠️ Xampp <br>
+  🛠️ Microsoft Teams, Zoom <br>
+  🛠️ ShareX, PicPick <br>
+  🛠️ Slack, Discord <br>
+
+# Soft skills
+  🌼 English B2 <br>
+  🌼 communicative, teamwork <br>
+  🌼 creative <br>
+  🌼 open-minded <br>
+  🌼 ambitious <br>
+  🌼 meticulous <br>
    
 
 # Books
-  📚 Pasja Testowania. Krzysztof Jadczyk
-  📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp
-  📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett
+  📚 Pasja Testowania. Krzysztof Jadczyk <br>
+  📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp <br>
+  📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
 
 
-
-# ❤️ Hobbies
-  - Dancing
-  - Graphic design
-  - Interior design
 
 # 🤓 Learning
   - Java Script
