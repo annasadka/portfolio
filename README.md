@@ -56,10 +56,12 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 
 
                                                                      
-# 📅 Courses
-  - DARET IT portfolio challenge - manual tester [My tasks](https://github.com/annasadka/challenge_portfolio_annasadka/blob/main/README.md)
-  - 6-day HTML/CSS Marathon from GoIT
-  - SQL from scratch
+# 📅 Courses & Workshops
+ ✅ DARET IT portfolio challenge - Manual Tester 
+ ✅ Praktyczny kurs testowania oprogramowania ( Udemy.com )
+ ✅ Kurs SQL w 120 minut ( kursysql.pl )
+ ✅ Kurs Dare IT Challenge: Zostań Testerem Manualnym
+
 
 
 # 🎉 Certificates
