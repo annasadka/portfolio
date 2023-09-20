@@ -66,11 +66,11 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 
 # Soft skills
   🌼 English B2 <br>
-  🌼 communicative, teamwork <br>
-  🌼 creative <br>
-  🌼 open-minded <br>
-  🌼 ambitious <br>
-  🌼 meticulous <br>
+  🌼 Communicative, Team Player <br>
+  🌼 Creative <br>
+  🌼 Open-minded <br>
+  🌼 Problem-solving attitude <br>
+
    
 
 # Books
