@@ -44,8 +44,8 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 
 
 #  Certificates
-  - Become a Manual Tester (Dare IT Challenge) <br>
-  - Introduction to Git and Github (Udemy) <br>
+ 🔶 Become a Manual Tester (Dare IT Challenge) <br>
+ 🔶 Introduction to Git and Github (Udemy) <br>
  
 
 
