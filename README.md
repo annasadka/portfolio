@@ -31,9 +31,7 @@
 
 # 🌼 About Me:
 
-- Recently: Hospitality Industry Marketing Specialist.
-- Currently I'm Marketing Specialist working for IT companies.
-- My goal is to develop testing knowlage and technical skills. 
+My name is Ania Sadka and I want to be a good software tester. 💻I think that I'm a person who pay attention to details, sometimes I see something it's invisible to the others. I'm stubborn, but - it helps me to reach my golas. Now, my main goal is learning and developing as a software tester. Thanks to my diversified experience I have highly developed interpersonal skills - I like people and I feel satisfied that I can work in a team 🤝. In this portfolio I would like to show my testing knowledge and my technical skills - mainly got through self-learning. I know that I have to develop my knowledge all the time, but I'm very happy about it.
 
 # 🚀 My projects
 
