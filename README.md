@@ -45,7 +45,8 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 # Tech skills
   💪 Manual testing <br>
   💪 Test cases generation <br>
-  💪 Bugs reporting <br>
+  💪 Bugs reporting <br
+  💪 Tests report generation <br>               
   💪 SQL (basic) <br>
   💪 DevTools <br>
 
