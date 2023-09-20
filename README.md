@@ -10,6 +10,7 @@
 
 <div align="center">
 <h2>I'm Ania<br> (Anna Sadka)</h2>
+<h3>and this is my Software Tester portfolio<br></h3>
 </div><br>
 
 <h3 align="center">
