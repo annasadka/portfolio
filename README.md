@@ -49,28 +49,27 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
  
 
 
-# 💪 Tech skills
-  - Software testing
-  - Creating test cases
-  - Reporting bugs
-  - SQL (basic)
-  - DevTools
-  - Project Management
+# Tech skills
+  💪 Manual testing
+  💪 Test cases generation
+  💪 Bugs reporting
+  💪 SQL (basic)
+  💪 DevTools
 
   
-# 🛠️ Tools
-  - Jira, Trello
-  - Youtrack, Monday, Clickup, Asana
-  - Figma, Photoshop, Indesign, Gimp, Canva
-  - Github
-  - Xampp
-  - Slack
+# Tools
+  🛠️ Jira
+  🛠️ Testrail
+  🛠️ Youtrack, Monday, Clickup, Asana
+  🛠️ Github
+  🛠️ Xampp
+  🛠️ Slack
    
 
-# 📚 Books
-  - Pasja Testowania. Krzysztof Jadczyk
-  - Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp
-  - HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett
+# Books
+  📚 Pasja Testowania. Krzysztof Jadczyk
+  📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp
+  📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett
 
 
 
