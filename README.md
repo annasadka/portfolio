@@ -79,15 +79,11 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
   📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
 
 # My Projects
-  ➡️ Test cases ➡️
-    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases 1 </a><br>
+  ➡️ Test cases <br>
+    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases </a><br>
     
-  ☑️ Bug reports ☑️
-    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Bug reports </a><br>
-   
-    
-  ✅ Tests report ✅
-    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Tests report</a><br>
+  ✅ Tests report <br>
+    <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Tests report</a><br>
 
 
 
