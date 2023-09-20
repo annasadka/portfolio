@@ -46,7 +46,7 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
   💪 Manual testing <br>
   💪 Test cases generation <br>
   💪 Bugs reporting <br>
-  💪 Tests report generation <br>               
+  💪 Tests report generation <br> 
   💪 SQL (basic) <br>
   💪 DevTools <br>
 
@@ -83,14 +83,13 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
     <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases 1 </a><br>
     
   ☑️ Bug reports ☑️
-    Bug reports 1
-    Bug reports 2
+    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Bug reports </a><br>
+   
     
   ✅ Tests report ✅
-     Tests report
+    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Tests report</a><br>
 
-# 🤓 Learning
-  - Java Script
+
 
 
 
