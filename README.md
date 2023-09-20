@@ -36,7 +36,7 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 
                                                                      
 #  Courses & Workshops
- ✅ Become a Manual Tester (Dare IT Challenge) <a href="https://drive.google.com/file/d/1oA50IlRsUxhl0qdgGRGgw-3uu8lRkUed/view?usp=sharing">Click to see my Certificate</a><br>
+ ✅ Become a Manual Tester (Dare IT Challenge) <a href="https://drive.google.com/file/d/1oA50IlRsUxhl0qdgGRGgw-3uu8lRkUed/view?usp=sharing" target="_blank">Click to see my Certificate</a><br>
  ✅ Praktyczny kurs testowania oprogramowania (Udemy.com) <br>
  ✅ Kurs SQL w 120 minut (kursysql.pl) <br>
  ✅ Introduction to Git and Github (Udemy) <br>
