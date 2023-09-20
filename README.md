@@ -78,7 +78,17 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
   📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp <br>
   📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
 
-
+# My Projects
+  ➡️ Test cases ➡️
+    Test Cases 1
+    Test Cases 2
+    
+  ☑️ Bug reports ☑️
+    Bug reports 1
+    Bug reports 2
+    
+  ✅ Tests report ✅
+     Tests report
 
 # 🤓 Learning
   - Java Script
