@@ -45,7 +45,7 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 # Tech skills
   💪 Manual testing <br>
   💪 Test cases generation <br>
-  💪 Bugs reporting <br
+  💪 Bugs reporting <br>
   💪 Tests report generation <br>               
   💪 SQL (basic) <br>
   💪 DevTools <br>
@@ -55,14 +55,13 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
   🛠️ Jira <br>
   🛠️ Trello <br>
   🛠️ Testrail <br>
-  🛠️ Youtrack, Monday, Clickup, Asana <br>
+  🛠️ Youtrack <br>
   🛠️ Github <br>
   🛠️ Postman <br>
   🛠️ Microsoft SQL Server Management Studio <br>
   🛠️ phpMyAdmin <br>
   🛠️ Xampp <br>
-  🛠️ Microsoft Teams, Zoom <br>
-  🛠️ ShareX, PicPick <br>
+  🛠️ ShareX <br>
   🛠️ Slack, Discord <br>
 
 # Soft skills
@@ -81,8 +80,7 @@ My name is Ania Sadka and I want to be a good software tester. 💻I think that 
 
 # My Projects
   ➡️ Test cases ➡️
-    Test Cases 1
-    Test Cases 2
+    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases 1 </a><br>
     
   ☑️ Bug reports ☑️
     Bug reports 1
