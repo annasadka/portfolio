@@ -32,11 +32,7 @@
 
 # About Me:
 
-My name is Ania Sadka and I have recently embarked on career change journey in order to become a Software Tester,
-which is something I'm really passionate about. I am looking for a junior/trainee position in testing. 
-In previous jobs, I have had the opportunity to work with people from different 
-countries and different backgrounds, which has given me highly developed communication skills and empathy. 
-I am also creative, thorough and have a problem-solving attitude. I'm excited to start a new chapter in my life.
+Hi! My name is ania and I am 36 years old. I have recently embarked on a career change journey in order to become a Software Tester, which is something I am really passionate about. I am a reliable, responsible, and highly committed person who puts their heart and brain into every new challenge I face. I have a problem-solving attitude and a can-do mindset that helps me achieve my work targets and goals.
 
                                                                      
 #  Courses & Workshops
