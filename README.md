@@ -32,7 +32,7 @@
 
 # About Me:
 
-Hi! My name is ania and I am 36 years old. I have recently embarked on a career change journey in order to become a Software Tester, which is something I am really passionate about. I am a reliable, responsible, and highly committed person who puts their heart and brain into every new challenge I face. I have a problem-solving attitude and a can-do mindset that helps me achieve my work targets and goals.
+Hi! My name is Ania and I am 36 years old. I have recently embarked on a career change journey in order to become a Software Tester, which is something I am really passionate about. I am a reliable, responsible, and highly committed person who puts their heart and brain into every new challenge I face. I have a problem-solving attitude and a can-do mindset that helps me achieve my work targets and goals.
 
                                                                      
 #  Courses & Workshops
