@@ -71,6 +71,11 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
   🌼 Open-minded <br>
   🌼 Problem-solving attitude <br>
   🌼 Attention to details <br>
+
+# Languages
+  🐦 English - B2 <br>
+  🐦 German - A2 <br>
+  🐦Polish - native <br>
  
 
 # Books
