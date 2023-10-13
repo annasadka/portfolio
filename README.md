@@ -44,9 +44,7 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
 
 # Tech skills
   💪 Manual testing <br>
-  💪 Test cases generation <br>
-  💪 Bugs reporting <br>
-  💪 Tests report generation <br> 
+  💪 HTML/CSS (basic) <br> 
   💪 SQL (basic) <br>
   💪 DevTools <br>
 
