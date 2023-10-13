@@ -80,7 +80,7 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
 
 # My Projects
   :watermelon: Test cases <br>
-    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092" target="blank">Click here! </a><br>
+    [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092){:target="_blank"} <br>
     
   :grapes: Bugs report <br>
     <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
