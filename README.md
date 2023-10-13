@@ -46,7 +46,7 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
   💪 Manual testing <br>
   💪 HTML/CSS (basic) <br> 
   💪 SQL (basic) <br>
-  💪 DevTools <br>
+  💪 Java Script (basic) <br>
 
   
 # Tools
@@ -55,6 +55,8 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
   🛠️ Testrail <br>
   🛠️ Youtrack <br>
   🛠️ Github <br>
+  🛠️ Devtools <br>
+  🛠️ Visual Studio Code <br>
   🛠️ Postman <br>
   🛠️ Microsoft SQL Server Management Studio <br>
   🛠️ phpMyAdmin <br>
@@ -68,8 +70,8 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
   🌼 Creative <br>
   🌼 Open-minded <br>
   🌼 Problem-solving attitude <br>
-
-   
+  🌼 Attention to details <br>
+ 
 
 # Books
   📚 Pasja Testowania. Krzysztof Jadczyk <br>
