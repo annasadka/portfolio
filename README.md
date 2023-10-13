@@ -79,14 +79,14 @@ Hi! My name is Ania and I am 36 years old. I have recently embarked on a career 
   📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
 
 # My Projects
-  ➡️ Test cases <br>
-    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases </a><br>
+  :watermelon: Test cases <br>
+    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092" target="blank">Test Cases </a><br>
     
-  ✅ Tests report <br>
-    <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Tests report</a><br>
+  :grapes: Bugs report <br>
+    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Tests report</a><br>
 
-  :cherries: Test cases <br>
-    <a href="https://docs.google.com/spreadsheets/d/1aTt7CGMSsCOjO0XpuH0wJ8-IDmtDinbDZbdOAraHMDg/edit?usp=sharing" target="blank">Test Cases </a><br>
+  :cherries: Test report <br>
+    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Test Cases </a><br>
 
 
 
