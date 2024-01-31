@@ -87,12 +87,25 @@ Hi, my name is Ania and I am 36 years old. Recently, I've started broadening my 
   🐦 English - B2/C1 <br>
   🐦 German - A2 <br>
   🐦 Polish - native <br>
- 
+
 
 # Books
   📚 Pasja Testowania. Krzysztof Jadczyk <br>
   📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp <br>
   📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
+
+# Gallup Talents
+  👉 Input; <br>
+  👉 Intellection; <br>
+  👉 Indyvidualization; <br>
+  👉 Learner; <br>
+  👉 Competition. <br>
+
+# Interests
+  ❤️ Interior design; <br>
+  ❤️ Furniture restoration; <br>
+  ❤️ Crime books; <br>
+  ❤️ Latin dance. <br>
 
 # My Projects
   :watermelon: Test cases <br>
