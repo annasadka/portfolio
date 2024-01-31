@@ -34,35 +34,45 @@
 
 Hi, my name is Ania and I am 36 years old. Recently, I've started broadening my IT knowledge in order to become a Software Tester. While working as a marketing specialist for IT companies, I noticed that I am most interested in testing-related tasks. Testing is something I am really passionate about, so I am currently looking for a job as a Junior Software Tester.
 
-                                                                     
-#  Courses & Workshops
- ✅ Become a Manual Tester (Dare IT Challenge) <a href="https://drive.google.com/file/d/1oA50IlRsUxhl0qdgGRGgw-3uu8lRkUed/view?usp=sharing" target="_blank">Click to see my Certificate</a><br>
- ✅ Praktyczny kurs testowania oprogramowania (Udemy.com) <br>
- ✅ Kurs SQL w 120 minut (kursysql.pl) <br>
+                                                                    
+
+#  Certified courses
+ ✅ Become a Manual Tester (Dare IT Challenge) <br>
+ ✅ Testing Academy - ISTQB training and exam (testuj.pl) <br>
+ ✅ Frontend Developer Bootcamp  (Kodilla) <br>
+ ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
+
+ #  Courses
+ ✅ Practical software testing course (Udemy) <br>
+ ✅ SQL course in 120 minutes (kursysql.pl) <br>
+ ✅ Postman from scratch - testing REST API (Udemy) <br>
  ✅ Introduction to Git and Github (Udemy) <br>
+ ✅ Testing Bootcamp - Software Testing 2023 (Udemy) <br>
 
-
-# Tech skills
-  💪 Manual testing <br>
-  💪 HTML/CSS (basic) <br> 
-  💪 SQL (basic) <br>
-  💪 Java Script (basic) <br>
+# Skills
+  💪 Knowledge of testing theory (ISTQB syllabus); <br>
+  💪 Bug reporting; <br>
+  💪 Creating scenarios and test cases; <br>
+  💪 Automation testing basics; <br>
+  💪 HTML, CSS; <br>
+  💪 Basic Java Script; <br>
+  💪 Basic SQL; <br>
+  💪 UX/UI design. <br>
 
   
 # Tools
-  🛠️ Jira <br>
-  🛠️ Trello <br>
-  🛠️ Testrail <br>
-  🛠️ Youtrack <br>
-  🛠️ Github <br>
-  🛠️ Devtools <br>
-  🛠️ Visual Studio Code <br>
-  🛠️ Postman <br>
-  🛠️ Microsoft SQL Server Management Studio <br>
-  🛠️ phpMyAdmin <br>
-  🛠️ Xampp <br>
-  🛠️ ShareX <br>
-  🛠️ Slack, Discord <br>
+  🛠️ Jira, Trello, Testrail, Mantis, Qase; <br>
+  🛠️ Xray Exploratory App; <br>
+  🛠️ Zephyr; <br>
+  🛠️ BrowserStack; <br>
+  🛠️ Github; <br>
+  🛠️ Devtools; <br>
+  🛠️ Postman; <br>
+  🛠️ Microsoft SQL Server Management Studio; <br>
+  🛠️ phpMyAdmin; <br>
+  🛠️ Visual Studio Code; <br>
+  🛠️ Google Workspace; <br>
+  🛠️ Wordpress. <br>
 
 # Soft skills
   🌼 English B2 <br>
