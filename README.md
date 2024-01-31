@@ -75,15 +75,16 @@ Hi, my name is Ania and I am 36 years old. Recently, I've started broadening my 
   🛠️ Wordpress. <br>
 
 # Soft skills
-  🌼 English B2 <br>
-  🌼 Communicative, Team Player <br>
-  🌼 Creative <br>
-  🌼 Open-minded <br>
-  🌼 Problem-solving attitude <br>
-  🌼 Attention to details <br>
+  🌼 Attention to detail; <br>
+  🌼 Good analytical and problem-solving abilities; <br>
+  🌼 Effective communication skills; <br>
+  🌼 Ability to work well in a team; <br>
+  🌼 Independence; <br>
+  🌼 Self-discipline; <br>
+  🌼 Inquisitiveness. <br>
 
 # Languages
-  🐦 English - B2 <br>
+  🐦 English - B2/C1 <br>
   🐦 German - A2 <br>
   🐦 Polish - native <br>
  
