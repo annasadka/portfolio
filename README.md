@@ -37,6 +37,10 @@ I am an aspiring manual tester with ambitions to develop towards automation. For
 
 # My Projects
   :watermelon: Test cases <br>
+  My work included:
+-creating a custom template for creating and executing test cases;
+-creation of test cases for selected functionality of Futbolkolektyw application
+-conducting tests of the created test cases
     [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
     [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
     
