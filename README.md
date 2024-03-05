@@ -32,9 +32,21 @@
 
 # About Me:
 
-Hi, my name is Ania and I am 36 years old. Recently, I've started broadening my IT knowledge in order to become a Software Tester. While working as a marketing specialist for IT companies, I noticed that I am most interested in testing-related tasks. Testing is something I am really passionate about, so I am currently looking for a job as a Junior Software Tester.
+I am an aspiring manual tester with ambitions to develop towards automation. For the past few months, I have been diligently expanding my knowledge in software testing. What sets me apart is my attention to detail, dedication to work, and a can-do attitude. With experience from previous positions working with developer teams, I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team.
 
-                                                                    
+
+# My Projects
+  :watermelon: Test cases <br>
+    [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
+    [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
+    
+  :grapes: Bugs report <br>
+    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
+
+  :cherries: Test report <br>
+    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
+    <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br>
+
 
 #  Certified courses
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
@@ -107,17 +119,7 @@ Hi, my name is Ania and I am 36 years old. Recently, I've started broadening my 
   ❤️ Crime books; <br>
   ❤️ Latin dance. <br>
 
-# My Projects
-  :watermelon: Test cases <br>
-    [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
-    [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
-    
-  :grapes: Bugs report <br>
-    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
 
-  :cherries: Test report <br>
-    <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
-    <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br>
 
 
 
