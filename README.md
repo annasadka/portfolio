@@ -29,6 +29,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+<br><br>
 
 # About Me:
 
@@ -57,6 +58,7 @@ My work included:<br>
   :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
+<br><br>
 
 #  Certified courses
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
@@ -64,12 +66,16 @@ My work included:<br>
  ✅ Frontend Developer Bootcamp  (Kodilla) <br>
  ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
 
+<br><br>
+
  #  Courses
  ✅ Practical software testing course (Udemy) <br>
  ✅ SQL course in 120 minutes (kursysql.pl) <br>
  ✅ Postman from scratch - testing REST API (Udemy) <br>
  ✅ Introduction to Git and Github (Udemy) <br>
  ✅ Testing Bootcamp - Software Testing 2023 (Udemy) <br>
+
+<br><br>
 
 # Skills
   💪 Knowledge of testing theory (ISTQB syllabus); <br>
@@ -81,6 +87,7 @@ My work included:<br>
   💪 Basic SQL; <br>
   💪 UX/UI design. <br>
 
+<br><br>
   
 # Tools
   🛠️ Jira, Trello, Testrail, Mantis, Qase; <br>
@@ -96,6 +103,8 @@ My work included:<br>
   🛠️ Google Workspace; <br>
   🛠️ Wordpress. <br>
 
+<br><br>
+
 # Soft skills
   🌼 Attention to detail; <br>
   🌼 Good analytical and problem-solving abilities; <br>
@@ -105,16 +114,21 @@ My work included:<br>
   🌼 Self-discipline; <br>
   🌼 Inquisitiveness. <br>
 
+<br><br>
+
 # Languages
   🐦 English - B2/C1 <br>
   🐦 German - A2 <br>
   🐦 Polish - native <br>
 
+<br><br>
 
 # Books
   📚 Pasja Testowania. Krzysztof Jadczyk <br>
   📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp <br>
   📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
+
+<br><br>
 
 # Gallup Talents
   👉 Input; <br>
@@ -122,6 +136,8 @@ My work included:<br>
   👉 Indyvidualization; <br>
   👉 Learner; <br>
   👉 Competition. <br>
+  
+<br><br>
 
 # Interests
   ❤️ Interior design; <br>
