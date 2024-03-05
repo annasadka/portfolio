@@ -32,7 +32,7 @@
 
 # About Me:
 
-I am an aspiring manual tester with ambitions to develop towards automation. For the past few months, I have been diligently expanding my knowledge in software testing. What sets me apart is my attention to detail, dedication to work, and a can-do attitude. With experience from previous positions working with developer teams, I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team.
+I am an aspiring manual tester with ambitions to develop towards automation. For the past few months, I have been diligently expanding my knowledge in software testing. What sets me apart is my attention to detail, dedication to work, and a can-do attitude. With experience from previous positions working with developer teams, I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team.<br><br>
 
 
 # My Projects
