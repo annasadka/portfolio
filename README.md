@@ -40,20 +40,20 @@ I am an aspiring manual tester with ambitions to develop towards automation. For
 My work included:<br>
 -creating a custom template for test case creation and execution;<br>
 -creation of test cases for selected functionality of Futbolkolektyw application;<br>
--conducting tests of the created test cases.<br>
+-conducting tests of the created test cases.<br><br>
 :point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
 :point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
     
 ## :grapes: Bugs report <br>
  My work included:<br>
 -creating a custom template for bug reporting;<br>
--creating a list of bugs found in the FutbolKolektyw application.<br>
+-creating a list of bugs found in the FutbolKolektyw application.<br><br>
 :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
 
 ## :cherries: Test report <br>
 My work included:<br>
 -creating a custom template for the test report;<br>
--creation of the test report in Excel and presentation form.<br>
+-creation of the test report in Excel and presentation form.<br><br>
   :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br>
 
