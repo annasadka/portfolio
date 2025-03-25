@@ -33,7 +33,7 @@
 
 # About Me:
 
- am a certified software tester, combining practical knowledge of testing with a broad understanding of the software development lifecycle. My previous experience in web design and web application development, combined with the ability to understand complex business areas, allows me to effectively bridge the gap between business requirements and technical implementation. <br>
+I am a certified software tester, combining practical knowledge of testing with a broad understanding of the software development lifecycle. My previous experience in web design and web application development, combined with the ability to understand complex business areas, allows me to effectively bridge the gap between business requirements and technical implementation. <br>
 
 <br><br>
 
