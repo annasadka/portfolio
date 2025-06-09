@@ -39,19 +39,38 @@ I am a certified software tester, combining practical knowledge of testing with 
 
 # My Projects
 
-# e-przychodnia
+# e-przychodnia <br>
+e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
-## Test plan
-:point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
+## Test plan<br>
+My work included:<br>
+1️⃣ creating and editing the test plan document according to project requirements;<br>
+2️⃣ defining the scope of testing, objectives, entry/exit criteria, and risks;<br>
+3️⃣ planning the test environment and preparing test data;<br>
+4️⃣ describing the testing strategy (types of tests, tools, schedule);<br>
+5️⃣ participating in the review and ongoing updates of the test plan during the project.<br>
+:point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
 
-## Test scenarios
+## Test scenarios<br>
+My work included:<br>
+1️⃣ analyzing requirements and identifying key functionalities to be tested;
+2️⃣ creating test scenarios covering positive, negative, and boundary cases;
+3️⃣ describing preconditions, test steps, and expected results for each scenario;
+4️⃣ adapting scenarios to different user perspectives (e.g., patient, doctor, administrator);
+5️⃣ reviewing and updating scenarios throughout the application's development.
 :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-## Test cases
-:point_right: [Click here!]() <br>
+## Test cases<br>
+My work included:<br>
+1️⃣ creating detailed test cases based on scenarios and business requirements;<br>
+2️⃣ defining preconditions, test steps, input data, and expected results;<br>
+3️⃣ documenting test cases in the chosen tool (e.g., Google Docs, TestRail);<br>
+4️⃣ executing manual tests according to the prepared cases and reporting results;<br>
+5️⃣ updating test cases based on application changes and test outcomes.<br>
+:point_right: [Click here!]() <br><br>
 
 
-# Futbolkolektyw web app
+# Futbolkolektyw web app<br>
 
  ## :watermelon: Test cases <br>
 My work included:<br>
