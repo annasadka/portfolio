@@ -53,12 +53,12 @@ My work included:<br>
 
 ## Test scenarios<br>
 My work included:<br>
-1️⃣ analyzing requirements and identifying key functionalities to be tested;
-2️⃣ creating test scenarios covering positive, negative, and boundary cases;
-3️⃣ describing preconditions, test steps, and expected results for each scenario;
-4️⃣ adapting scenarios to different user perspectives (e.g., patient, doctor, administrator);
-5️⃣ reviewing and updating scenarios throughout the application's development.
-:point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
+1️⃣ analyzing requirements and identifying key functionalities to be tested;<br>
+2️⃣ creating test scenarios covering positive, negative, and boundary cases;<br>
+3️⃣ describing preconditions, test steps, and expected results for each scenario;<br>
+4️⃣ adapting scenarios to different user perspectives (e.g., patient, doctor, administrator);<br>
+5️⃣ reviewing and updating scenarios throughout the application's development.<br>
+:point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
 
 ## Test cases<br>
 My work included:<br>
