@@ -38,6 +38,21 @@ I am a certified software tester, combining practical knowledge of testing with 
 <br><br>
 
 # My Projects
+
+# e-przychodnia
+
+## Test plan
+:point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
+
+## Test scenarios
+:point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
+
+## Test cases
+:point_right: [Click here!]() <br>
+
+
+# Futbolkolektyw web app
+
  ## :watermelon: Test cases <br>
 My work included:<br>
 1️⃣ creating a custom template for test case creation and execution;<br>
