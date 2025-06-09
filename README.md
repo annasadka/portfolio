@@ -64,7 +64,7 @@ My work included:<br>
 My work included:<br>
 1️⃣ creating detailed test cases based on scenarios and business requirements;<br>
 2️⃣ defining preconditions, test steps, input data, and expected results;<br>
-3️⃣ documenting test cases in the chosen tool (e.g., Google Docs, TestRail);<br>
+3️⃣ documenting test cases in the chosen tool);<br>
 4️⃣ executing manual tests according to the prepared cases and reporting results;<br>
 5️⃣ updating test cases based on application changes and test outcomes.<br>
 :point_right: Soon! <br><br>
