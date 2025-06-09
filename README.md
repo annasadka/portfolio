@@ -45,28 +45,22 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 ## Test plan<br>
 My work included:<br>
 1️⃣ creating and editing the test plan document according to project requirements;<br>
-2️⃣ defining the scope of testing, objectives, entry/exit criteria, and risks;<br>
-3️⃣ planning the test environment and preparing test data;<br>
-4️⃣ describing the testing strategy (types of tests, tools, schedule);<br>
-5️⃣ participating in the review and ongoing updates of the test plan during the project.<br><br>
+2️⃣ participating in the review and ongoing updates of the test plan during the project.<br><br>
 :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
 
 ## Test scenarios<br>
 My work included:<br>
 1️⃣ analyzing requirements and identifying key functionalities to be tested;<br>
 2️⃣ creating test scenarios covering positive, negative, and boundary cases;<br>
-3️⃣ describing preconditions, test steps, and expected results for each scenario;<br>
-4️⃣ adapting scenarios to different user perspectives (e.g., patient, doctor, administrator);<br>
-5️⃣ reviewing and updating scenarios throughout the application's development.<br><br>
+3️⃣ reviewing and updating scenarios throughout the application's development.<br><br>
 :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
 
 ## Test cases<br>
 My work included:<br>
 1️⃣ creating detailed test cases based on scenarios and business requirements;<br>
-2️⃣ defining preconditions, test steps, input data, and expected results;<br>
-3️⃣ documenting test cases in the chosen tool);<br>
-4️⃣ executing manual tests according to the prepared cases and reporting results;<br>
-5️⃣ updating test cases based on application changes and test outcomes.<br><br>
+2️⃣ documenting test cases in the chosen tool;<br>
+3️⃣ executing manual tests according to the prepared cases and reporting results;<br>
+4️⃣ updating test cases based on application changes and test outcomes.<br><br>
 :point_right: Soon! <br><br>
 
 
