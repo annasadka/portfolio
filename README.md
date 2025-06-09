@@ -39,7 +39,7 @@ I am a certified software tester, combining practical knowledge of testing with 
 
 # My Projects
 
-# e-przychodnia <br>
+## :hospital: e-przychodnia <br>
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
 ## Test plan<br>
@@ -67,10 +67,10 @@ My work included:<br>
 3️⃣ documenting test cases in the chosen tool (e.g., Google Docs, TestRail);<br>
 4️⃣ executing manual tests according to the prepared cases and reporting results;<br>
 5️⃣ updating test cases based on application changes and test outcomes.<br>
-:point_right: [Click here!]() <br><br>
+:point_right: Soon! <br><br>
 
 
-# Futbolkolektyw web app<br>
+##  :football: Futbolkolektyw web app<br>
 
  ## :watermelon: Test cases <br>
 My work included:<br>
