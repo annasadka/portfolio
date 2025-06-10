@@ -65,47 +65,25 @@ Later, I joined ennovative as a Software Tester, where I tested project and even
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
 ## Test plan<br>
-My work included:<br>
-1️⃣ creating and editing the test plan document according to project requirements;<br>
-2️⃣ participating in the review and ongoing updates of the test plan during the project.<br><br>
 :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
 
 ## Test scenarios<br>
-My work included:<br>
-1️⃣ analyzing requirements and identifying key functionalities to be tested;<br>
-2️⃣ creating test scenarios covering positive, negative, and boundary cases;<br>
-3️⃣ reviewing and updating scenarios throughout the application's development.<br><br>
 :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
 
 ## Test cases<br>
-My work included:<br>
-1️⃣ creating detailed test cases based on scenarios and business requirements;<br>
-2️⃣ documenting test cases in the chosen tool;<br>
-3️⃣ executing manual tests according to the prepared cases and reporting results;<br>
-4️⃣ updating test cases based on application changes and test outcomes.<br><br>
 :point_right: Soon! <br><br>
 
 
 ##  :football: Futbolkolektyw web app<br>
 
  ## Test cases <br>
-My work included:<br>
-1️⃣ creating a custom template for test case creation and execution;<br>
-2️⃣ creation of test cases for selected functionality of Futbolkolektyw application;<br>
-3️⃣ conducting tests of the created test cases.<br><br>
 :point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
 :point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br><br>
     
 ## Bugs report <br>
- My work included:<br>
-:one: creating a custom template for bug reporting;<br>
-2️⃣ creating a list of bugs found in the FutbolKolektyw application.<br><br>
 :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br><br>
 
 ## Test report <br>
-My work included:<br>
-:one: creating a custom template for the test report;<br>
-2️⃣ creation of the test report in Excel and presentation form.<br><br>
   :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
