@@ -111,16 +111,17 @@ My work included:<br>
 
 <br><br>
 ## SQL tasks: <br>
-:point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
+:point_right: [Click here!](https://github.com/annasadka/SQL-portfolio-zadania) <br>
 <br><br>
 ## Postman API tests: <br>
-:point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
+:point_right: [Click here!](https://github.com/annasadka/Jira-Postman-tests) <br>
 
 #  Certified courses
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
  ✅ Testing Academy - ISTQB training and exam (testuj.pl) <br>
  ✅ Frontend Developer Bootcamp  (Kodilla) <br>
  ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
+ ✅ Digital Accesibility - Ministry of Digitalisation (2025) <br>
 
 <br><br>
 
