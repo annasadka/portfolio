@@ -53,6 +53,9 @@ I have a strong need for development. I quickly learn new tools and technologies
 Competition motivates me to set ambitious goals and constantly improve my work. I like to see tangible results and strive to make every project polished and valuable for the team and users.<br>
 
 <br><br>
+# Work experience: 
+After completing the Dare IT Challenge I completed an internship at TestArmy, focusing on manual testing of web applications and preparing documentation. I then worked as a Software Tester at ennovative, where I tested project and event management applications, deepened my knowledge of software testing, and started automating tests using Cypress.
+<br><br>
 
 # My Projects
 
