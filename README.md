@@ -37,20 +37,15 @@ I am a manual tester with two years of experience in IT and an ISTQB Foundation 
 
 ## My main Gallup strengths are:
 
-### Input<br>
-I quickly gather and organize information, which helps me adapt to new projects and ask the right questions during testing.<br>
+✅ Input - I quickly gather and organize information, which helps me adapt to new projects and ask the right questions during testing.
 
-### Intellection<br>
-I analyze problems deeply and look for connections, always aiming to find the root cause rather than just surface-level issues.<br>
+✅ Intellection - I analyze problems deeply and look for connections, always aiming to find the root cause rather than just surface-level issues.<br>
 
-### Individualization<br>
-I adjust my communication to different team members, making collaboration smoother and better understanding user needs.<br>
+✅ Individualization - I adjust my communication to different team members, making collaboration smoother and better understanding user needs.<br>
 
-### Learner<br>
-I’m eager to learn new tools and technologies, which allows me to introduce improvements and raise testing quality.<br>
+✅ Learner - I’m eager to learn new tools and technologies, which allows me to introduce improvements and raise testing quality.<br>
 
-### Competition<br>
-I set ambitious goals for myself and strive to deliver polished, valuable results for the team and users.<br>
+✅ Competition - I set ambitious goals for myself and strive to deliver polished, valuable results for the team and users.<br>
 
 <br><br>
 # Work experience: 
