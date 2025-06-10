@@ -59,23 +59,23 @@ Later, I joined ennovative as a Software Tester, where I tested project and even
 ## :hospital: e-przychodnia <br>
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
-Test plan :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
+☑️ Test plan :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
 
-Test scenarios :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
+☑️ Test scenarios :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-Test cases :point_right: Soon! <br><br>
+☑️ Test cases :point_right: Soon! <br><br>
 
 
 ##  :football: Futbolkolektyw web app<br>
 
- ## Test cases <br>
+☑️ Test cases <br>
 :point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
 :point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br><br>
     
-## Bugs report <br>
+☑️ Bugs report <br>
 :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br><br>
 
-## Test report <br>
+☑️ Test report <br>
   :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
