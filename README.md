@@ -79,10 +79,10 @@ e-przychodnia is a modern web application that enables patients to quickly and s
   :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
-## SQL tasks: <br>
+## :computer: SQL tasks: <br>
 :point_right: [Click here!](https://github.com/annasadka/SQL-portfolio-zadania) <br>
 <br>
-## Postman API tests: <br>
+## :bulb: Postman API tests: <br>
 :point_right: [Click here!](https://github.com/annasadka/Jira-Postman-tests) <br><br><br>
 
 #  Certified courses
