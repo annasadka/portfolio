@@ -57,7 +57,7 @@ Competition motivates me to set ambitious goals and constantly improve my work. 
 After completing the Dare IT Challenge, where I tested the Futbolkolektyw app for football players, I started an internship at TestArmy. There, I was responsible for manual testing of web applications, preparing test scenarios and documentation.
 
 Later, I joined ennovative as a Software Tester, where I tested project and event management applications. My main responsibilities included designing and executing manual tests, reporting bugs, and maintaining test documentation. I also created and maintained automated tests in Cypress using TypeScript, analyzed test results, and worked closely with developers and other testers to identify and solve issues. This role allowed me to significantly deepen my knowledge of both manual and automated testing in a dynamic, agile environment
-<br><br>
+<br><br><br>
 
 # My Projects
 
@@ -109,7 +109,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
  ✅ Introduction to Git and Github (Udemy) <br>
  ✅ Testing Bootcamp - Software Testing 2023 (Udemy) <br>
 
-<br><br>
+<br><br><br>
 
 # Skills
   💪 Knowledge of testing theory (ISTQB syllabus); <br>
