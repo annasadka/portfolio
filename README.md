@@ -33,7 +33,24 @@
 
 # About Me:
 
-I am a certified software tester, combining practical knowledge of testing with a broad understanding of the software development lifecycle. My previous experience in web design and web application development, combined with the ability to understand complex business areas, allows me to effectively bridge the gap between business requirements and technical implementation. <br>
+I am a manual tester with two years of experience in IT and an ISTQB Foundation Level certificate. I started my career with the Dare IT Challenge, where I tested the Futbolkolektyw app for football players. I am focused on growth – I eagerly take part in additional projects, including hobby and pro bono initiatives, to expand my knowledge and skills. <br><br>
+
+My main Gallup strengths are:
+
+Input<br>
+I like to know as much as possible – I read documentation, gather information, and note interesting cases and solutions. This helps me quickly adapt to new projects and ask the right questions to identify issues.<br><br>
+
+Intellection<br>
+I spend a lot of time thinking, analyzing, and diving deep into topics. In testing, this allows me to break down problems, look for connections, and consider the broader context. I don’t settle for surface-level checks – I look for root causes and dependencies.<br><br>
+
+Individualization<br>
+I notice that everyone in a team is different. I can adjust my communication and approach to different people, which makes cooperation easier – both with developers and clients. It also helps me better understand end users’ needs.<br><br>
+
+Learner<br>
+I have a strong need for development. I quickly learn new tools and technologies and eagerly take part in trainings and side projects. Thanks to this, I can introduce new solutions and raise the quality of testing.<br><br>
+
+Competition<br>
+Competition motivates me to set ambitious goals and constantly improve my work. I like to see tangible results and strive to make every project polished and valuable for the team and users.<br><br>
 
 <br><br>
 
