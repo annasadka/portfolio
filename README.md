@@ -83,7 +83,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 :point_right: [Click here!](https://github.com/annasadka/SQL-portfolio-zadania) <br>
 <br>
 ## Postman API tests: <br>
-:point_right: [Click here!](https://github.com/annasadka/Jira-Postman-tests) <br><br>
+:point_right: [Click here!](https://github.com/annasadka/Jira-Postman-tests) <br><br><br>
 
 #  Certified courses
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
@@ -92,7 +92,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
  ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
  ✅ Digital Accesibility - Ministry of Digitalisation (2025) <br>
 
-<br><br><br>
+<br><br>
 
  #  Courses
  ✅ Practical software testing course (Udemy) <br>
