@@ -35,7 +35,7 @@
 
 I am a manual tester with two years of experience in IT and an ISTQB Foundation Level certificate. I started my career with the Dare IT Challenge, where I tested the Futbolkolektyw app for football players. I am focused on growth – I eagerly take part in additional projects, including hobby and pro bono initiatives, to expand my knowledge and skills. <br><br>
 
-## My main Gallup strengths are:
+## My main [Gallup strengths](https://drive.google.com/file/d/1ST_DvJXCuZnWySM4wemVg-vHmnmY8Q5X/view?usp=sharing) are:
 
 ✅ Input - I quickly gather and organize information, which helps me adapt to new projects and ask the right questions during testing.
 
