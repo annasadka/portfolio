@@ -100,7 +100,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
  ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
  ✅ Digital Accesibility - Ministry of Digitalisation (2025) <br>
 
-<br><br>
+<br><br><br>
 
  #  Courses
  ✅ Practical software testing course (Udemy) <br>
@@ -109,7 +109,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
  ✅ Introduction to Git and Github (Udemy) <br>
  ✅ Testing Bootcamp - Software Testing 2023 (Udemy) <br>
 
-<br><br><br>
+<br><br><
 
 # Skills
   💪 Knowledge of testing theory (ISTQB syllabus); <br>
