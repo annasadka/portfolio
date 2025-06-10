@@ -54,7 +54,9 @@ Competition motivates me to set ambitious goals and constantly improve my work. 
 
 <br><br>
 # Work experience: 
-After completing the Dare IT Challenge I completed an internship at TestArmy, focusing on manual testing of web applications and preparing documentation. I then worked as a Software Tester at ennovative, where I tested project and event management applications, deepened my knowledge of software testing, and started automating tests using Cypress.
+After completing the Dare IT Challenge, where I tested the Futbolkolektyw app for football players, I started an internship at TestArmy. There, I was responsible for manual testing of web applications, preparing test scenarios and documentation.
+
+Later, I joined ennovative as a Software Tester, where I tested project and event management applications. My main responsibilities included designing and executing manual tests, reporting bugs, and maintaining test documentation. I also created and maintained automated tests in Cypress using TypeScript, analyzed test results, and worked closely with developers and other testers to identify and solve issues. This role allowed me to significantly deepen my knowledge of both manual and automated testing in a dynamic, agile environment
 <br><br>
 
 # My Projects
@@ -108,6 +110,11 @@ My work included:<br>
   :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
 <br><br>
+## SQL tasks: <br>
+:point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
+<br><br>
+## Postman API tests: <br>
+:point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
 
 #  Certified courses
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
@@ -172,27 +179,7 @@ My work included:<br>
 
 <br><br>
 
-# Books
-  📚 Pasja Testowania. Krzysztof Jadczyk <br>
-  📚 Certyfikowany tester ISTQB. Poziom podstawowy. A.Roman, L. Stapp <br>
-  📚 HTML i CSS. Zaprojektuj i zbuduj witrynę WWW. Jon Duckett <br>
 
-<br><br>
-
-# Gallup Talents
-  👉 Input; <br>
-  👉 Intellection; <br>
-  👉 Indyvidualization; <br>
-  👉 Learner; <br>
-  👉 Competition. <br>
-  
-<br><br>
-
-# Interests
-  ❤️ Interior design; <br>
-  ❤️ Furniture restoration; <br>
-  ❤️ Crime books; <br>
-  ❤️ Latin dance. <br>
 
 
 
