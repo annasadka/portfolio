@@ -59,14 +59,11 @@ Later, I joined ennovative as a Software Tester, where I tested project and even
 ## :hospital: e-przychodnia <br>
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
-## Test plan<br>
-:point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
+Test plan :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
 
-## Test scenarios<br>
-:point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
+Test scenarios :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br><br>
 
-## Test cases<br>
-:point_right: Soon! <br><br>
+Test cases :point_right: Soon! <br><br>
 
 
 ##  :football: Futbolkolektyw web app<br>
@@ -104,7 +101,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
  ✅ Introduction to Git and Github (Udemy) <br>
  ✅ Testing Bootcamp - Software Testing 2023 (Udemy) <br>
 
-<br><br><
+<br><br>
 
 # Skills
   💪 Knowledge of testing theory (ISTQB syllabus); <br>
