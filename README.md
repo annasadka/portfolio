@@ -89,8 +89,8 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 
 #  Certified courses
- ✅ Digital Accesibility (WCAG) - by Ministry of Digitalization
- ✅ AIDEAS - AI competency development
+ ✅ Digital Accesibility (WCAG) - by Ministry of Digitalization <br>
+ ✅ AIDEAS - AI competency development <br>
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
  ✅ Testing Academy - ISTQB training and exam (testuj.pl) <br>
  ✅ Frontend Developer Bootcamp  (Kodilla) <br>
@@ -133,7 +133,9 @@ e-przychodnia is a modern web application that enables patients to quickly and s
   🛠️ phpMyAdmin; <br>
   🛠️ Visual Studio Code; <br>
   🛠️ Google Workspace; <br>
+  🛠️ Cypress; <br>
   🛠️ Wordpress. <br>
+  
 
 <br><br>
 
