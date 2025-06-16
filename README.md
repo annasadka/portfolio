@@ -84,6 +84,8 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 <br>
 ## :bulb: Postman API tests: <br>
 :point_right: [OpenWeather Postman tests](https://github.com/annasadka/OpenWeather-Postman-tests) <br><br><br>
+:point_right: [Jira Postman tests](https://github.com/annasadka/Jira-Postman-tests_) <br><br><br>
+
 
 
 #  Certified courses
