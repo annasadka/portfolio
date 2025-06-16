@@ -89,6 +89,8 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 
 #  Certified courses
+ ✅ Digital Accesibility (WCAG) - by Ministry of Digitalization
+ ✅ AIDEAS - AI competency development
  ✅ Become a Manual Tester (Dare IT Challenge) <br>
  ✅ Testing Academy - ISTQB training and exam (testuj.pl) <br>
  ✅ Frontend Developer Bootcamp  (Kodilla) <br>
@@ -98,6 +100,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 <br><br>
 
  #  Courses
+ ✅ Cypress from scratch - Test automation <br>
  ✅ Practical software testing course (Udemy) <br>
  ✅ SQL course in 120 minutes (kursysql.pl) <br>
  ✅ Postman from scratch - testing REST API (Udemy) <br>
