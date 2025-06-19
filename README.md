@@ -65,19 +65,21 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 ☑️ Test cases :point_right: Soon! <br><br>
 
+##  :bank: plus500 trading platform <br>
+
+☑️ Test plan :point_right: [Click here!](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.1d4h4duxhbii) <br>
+
+☑️ Test scenarios :point_right: [Click here!](hhttps://docs.google.com/document/d/1WRUbb1mBJlUxwr_2Ol05imj9wTEEJOxWGp8BmRYTb5E/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
+
+☑️ Test cases :point_right: Soon! <br><br>
 
 ##  :football: Futbolkolektyw web app<br>
 
-☑️ Test cases <br>
-:point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) <br>
-:point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br><br>
+☑️ Test cases :point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) :point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
     
-☑️ Bugs report <br>
-:point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br><br>
+☑️ Bugs report :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
 
-☑️ Test report <br>
-  :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a><br>
-  :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
+☑️ Test report :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a> :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
 
 ## :computer: SQL tasks: <br>
 :point_right: [Click here!](https://github.com/annasadka/SQL-portfolio-zadania) <br>
