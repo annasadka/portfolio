@@ -63,7 +63,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 :point_right: [Test scenarios](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-:point_right: [Test cases]() <br><br>
+:point_right: Soon! <br><br>
 
 ##  :bank: plus500 trading platform <br>
 
@@ -71,7 +71,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 :point_right: [Test scenario](https://docs.google.com/document/d/1WRUbb1mBJlUxwr_2Ol05imj9wTEEJOxWGp8BmRYTb5E/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-:point_right: [Test cases](https://docs.google.com/document/d/1-mNCQxmcW8t_IuiwMw3o9KsHl5A7bq3fr4SUuHl9tgs/edit?tab=t.0#heading=h.jrt42coh1a6) <br><br>
+:point_right: [Test cases](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.6pkpiwm455g4) <br><br>
 
 ##  :football: Futbolkolektyw web app<br>
 
