@@ -59,27 +59,27 @@ Later, I joined ennovative as a Software Tester, where I tested project and even
 ## :hospital: e-przychodnia <br>
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
-☑️ Test plan :point_right: [Click here!](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
+:point_right: [Test plan](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
 
-☑️ Test scenarios :point_right: [Click here!](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
+:point_right: [Test scenarios](https://docs.google.com/document/d/1diZ-xNOZx9mdPYjjdUXkmc7tpeokUzeoWiC0B_4UJS4/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-☑️ Test cases :point_right: Soon! <br><br>
+:point_right: [Test cases]() <br><br>
 
 ##  :bank: plus500 trading platform <br>
 
-☑️ Test plan :point_right: [Click here!](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.1d4h4duxhbii) <br>
+:point_right: [Test plan](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.1d4h4duxhbii) <br>
 
-☑️ Test scenarios :point_right: [Click here!](hhttps://docs.google.com/document/d/1WRUbb1mBJlUxwr_2Ol05imj9wTEEJOxWGp8BmRYTb5E/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
+:point_right: [Test scenario](https://docs.google.com/document/d/1WRUbb1mBJlUxwr_2Ol05imj9wTEEJOxWGp8BmRYTb5E/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
-☑️ Test cases :point_right: Soon! <br><br>
+:point_right: [Test cases](https://docs.google.com/document/d/1-mNCQxmcW8t_IuiwMw3o9KsHl5A7bq3fr4SUuHl9tgs/edit?tab=t.0#heading=h.jrt42coh1a6) <br><br>
 
 ##  :football: Futbolkolektyw web app<br>
 
-☑️ Test cases :point_right: [Click here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) :point_right: [And here!](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
+:point_right: [Test case 1](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092) :point_right: [Test case 2](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
     
-☑️ Bugs report :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Click here!</a><br>
+:point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Bug report</a><br>
 
-☑️ Test report :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Click here! (Excel version)</a> :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Click here! (Presentation version)</a><br><br>
+:point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Test report (Excel version)</a> :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Test report (Presentation version)</a><br><br>
 
 ## :computer: SQL tasks: <br>
 :point_right: [Click here!](https://github.com/annasadka/SQL-portfolio-zadania) <br>
