@@ -56,7 +56,7 @@ Later, I joined ennovative as a Software Tester, where I tested project and even
 
 # My Projects
 
-## :hospital: e-przychodnia <br>
+## :stethoscope: e-przychodnia <br>
 e-przychodnia is a modern web application that enables patients to quickly and securely connect with doctors and health specialists. The project was created as part of a collaborative learning and development initiative in an all-women IT team. We focus on user convenience, data security, and an intuitive interface.<br><br>
 
 :point_right: [Test plan](https://docs.google.com/document/d/1g6UBHUt1LMTaLf7DkkuoPmK4xANzjruPWmB6HqPX6DI/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
@@ -65,7 +65,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 :point_right: Soon! <br><br>
 
-##  :moneybag: plus500 trading platform <br>
+##  :money_with_wings: plus500 trading platform <br>
 
 :point_right: [Test plan](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.1d4h4duxhbii) <br>
 
@@ -76,11 +76,13 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 ##  :football: Futbolkolektyw web app<br>
 
 :point_right: [Test case 1](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1089487092)<br> 
+
 :point_right: [Test case 2](https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=981232423) <br>
     
 :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1356158546" target="blank">Bug report</a><br>
 
 :point_right: <a href="https://docs.google.com/spreadsheets/d/1cmKNdL8iqBI_bWTe9jp_HwgQOh8Let9CoDSluefeJt8/edit#gid=1669511446" target="blank">Test report (Excel version)</a><br> 
+
 :point_right: <a href="https://docs.google.com/presentation/d/1D0NU-WkJbHL8yWAuwewOI8xpXMr61IO7/edit#slide=id.p1" target="blank">Test report (Presentation version)</a><br><br>
 
 ## :computer: SQL tasks: <br>
@@ -88,6 +90,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 <br>
 ## :bulb: Postman API tests: <br>
 :point_right: [OpenWeather Postman tests](https://github.com/annasadka/OpenWeather-Postman-tests) <br>
+
 :point_right: [Jira Postman tests](https://github.com/annasadka/Jira-Postman-tests_) <br><br><br>
 
 
