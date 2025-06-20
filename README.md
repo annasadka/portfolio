@@ -91,13 +91,15 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 
 #  Certified courses
- ✅ Digital Accesibility (WCAG) - by Ministry of Digitalization <br>
- ✅ AIDEAS - AI competency development <br>
- ✅ Become a Manual Tester (Dare IT Challenge) <br>
- ✅ Testing Academy - ISTQB training and exam (testuj.pl) <br>
- ✅ Frontend Developer Bootcamp  (Kodilla) <br>
+ ✅ Digital Accesibility (WCAG) - by Ministry of Digitalization (2025)<br>
+ ✅ [Cypress from scratch - test automation](Usemy)(https://drive.google.com/file/d/1ELjduU3BfPsK7CFkXmOTuSfDL-VDS8FD/view?usp=drive_link)
+ ✅ [AIDEAS - AI competency development](https://drive.google.com/file/d/16oGQ238lan41xXUoiPClH4aVhBADh0oZ/view?usp=sharing) <br>
  ✅ Introduction to Automated Testing (Dare IT Challenge) <br>
- ✅ Digital Accesibility - Ministry of Digitalisation (2025) <br>
+ ✅ [Become a Manual Tester (Dare IT Challenge)](https://drive.google.com/file/d/1_9Q97UPnOe_POEq-oJrU3Hxe5KvFlXK6/view?usp=drive_link)<br>
+ ✅ [Testing Academy - ISTQB training and exam (testuj.pl)](https://drive.google.com/file/d/1werfd79Nr0Hte5cKYobDaUbeR7aU8XGV/view?usp=drive_link) <br>
+ ✅ [Frontend Developer Bootcamp  (Kodilla)](https://drive.google.com/file/d/1eD9LPDH-CTw263diePpFAC3HmvhkxkRS/view?usp=drive_link) <br>
+
+
 
 <br><br>
 
