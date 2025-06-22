@@ -67,7 +67,7 @@ e-przychodnia is a modern web application that enables patients to quickly and s
 
 ##  :money_with_wings: plus500 trading platform <br>
 
-:point_right: [Test plan](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.1d4h4duxhbii) <br>
+:point_right: [Test plan](https://docs.google.com/document/d/12qqpUoIlBND0nLb0nczrKa9ZJLqlflVMlGYtnTAZiUc/edit?tab=t.0#heading=h.6pkpiwm455g4) <br>
 
 :point_right: [Test scenario](https://docs.google.com/document/d/1WRUbb1mBJlUxwr_2Ol05imj9wTEEJOxWGp8BmRYTb5E/edit?tab=t.0#heading=h.87yc4jeicxh1) <br>
 
